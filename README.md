@@ -5,7 +5,7 @@ Utilizes sciurius' btsync-keygen [perl script](https://gist.github.com/sciurius/
 Usage:
 
 ```bash
-docker run -it aevumdecessus/btsync-keygen
+docker run -it --rm aevumdecessus/btsync-keygen
 ```
 
 Example Output (Don't use these keys as they are public)
